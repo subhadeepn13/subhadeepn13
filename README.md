@@ -1,4 +1,4 @@
-# Hi, I'm Subh 👋  
+# Hi, I'm Subh 🙏🏾  
 
 🚀 Product Manager | AI/ML Builder | RegTech & FinTech Innovator  
 
