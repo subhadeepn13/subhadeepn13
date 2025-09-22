@@ -5,4 +5,4 @@
 - 🔭 Currently building: **StockBOT AI** & **Politician Insight Analyzer**  
 - 🌱 Exploring: Multi-model AI pipelines, SaaS product strategy  
 - 💡 Interests: RegTech, FinTech, Compliance AI, Cloud-native tools  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/subhadeep-naskar/)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/subhadeep-naskar/)
