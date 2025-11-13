@@ -1,6 +1,6 @@
 # Hi, I'm Subh 🙏🏾  
 
-🚀 Product Manager | AI/ML Builder | RegTech & FinTech Innovator  
+🚀 Product Manager | AI/ML Builder | RegTech & FinTech Innovator 
 
 - 🔭 Currently building: **StockBOT AI** & **Politician Insight Analyzer**  
 - 🌱 Exploring: Multi-model AI pipelines, SaaS product strategy  
